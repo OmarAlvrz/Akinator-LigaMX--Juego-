@@ -5,7 +5,7 @@ Este proyecto es un juego interactivo estilo *Akinator* desarrollado con **Vite*
 ## 🖼️ Vista previa
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <img src="https://github.com/user-attachments/assets/264c0a04-87c0-4a6e-a558-5a23395d0e35" alt="Pantalla principal" width="300" style="margin-right: 10px;" />
+  <img src="https://github.com/user-attachments/assets/f3060bf8-ea55-43a2-b054-142643263fef" alt="Pantalla principal" width="300" style="margin-right: 10px;" />
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">

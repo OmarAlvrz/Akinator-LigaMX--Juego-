@@ -4,13 +4,19 @@ Este proyecto es un juego interactivo estilo *Akinator* desarrollado con **Vite*
 
 ## 🖼️ Vista previa
 
-![Pantalla principal](https://github.com/user-attachments/assets/264c0a04-87c9-4a6e-a558-5a23395d0e35)
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img src="https://github.com/user-attachments/assets/264c0a04-87c0-4a6e-a558-5a23395d0e35" alt="Pantalla principal" width="300" style="margin-right: 10px;" />
+</div>
 
-![Ejemplo de pregunta](https://github.com/user-attachments/assets/d592a777-2a62-4917-a6a8-9283f877ee66)
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img src="https://github.com/user-attachments/assets/d592a777-2a62-4917-a6a8-9283f877ee66" alt="Ejemplo de pregunta" width="300" style="margin-right: 10px;" />
+</div>
 
-![Resultado](https://github.com/user-attachments/assets/6f3b87f1-69ed-4cd1-89ce-cc5a55161900)
+<div style="display: flex; align-items: flex-start;">
+  <img src="https://github.com/user-attachments/assets/6f3b87f1-69ed-4cd1-89ce-cc5a55161900" alt="Resultado" width="300" style="margin-right: 10px;" />
+</div>
 
-##Instala las dependencias:
+## Instala las dependencias:
 ```npm install```
 
 Inicia el entorno de desarrollo:

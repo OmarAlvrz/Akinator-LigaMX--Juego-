@@ -1,6 +1,6 @@
 # LigaMX Adivinador ⚽
 
-Este proyecto es un juego interactivo estilo *Akinator* desarrollado con **Vite**, **React** y **TypeScript**. Su objetivo es adivinar a qué equipo de la **Liga MX** perteneces a través de preguntas dinámicas y divertidas.
+Este proyecto es un juego interactivo estilo *Akinator* desarrollado con **Vite**, **React** y **TypeScript**. Su objetivo es adivinar tu equipo de la **Liga MX** a través de preguntas dinámicas y divertidas.
 
 ## 🖼️ Vista previa
 
@@ -24,6 +24,6 @@ Este proyecto es un juego interactivo estilo *Akinator* desarrollado con **Vite*
 
 ## 🚀 Características
 
-- **Interfaz interactiva**: responde preguntas y descubre qué equipo de la Liga MX es tu favorito.
+- **Interfaz interactiva**: responde preguntas y deja que adivine a tu equipo de la LigaMX.
 - **Desempeño rápido**: construido con **Vite**, lo que garantiza tiempos de carga mínimos.
 - **Diseño amigable**: interfaz sencilla y atractiva para todos los usuarios.
